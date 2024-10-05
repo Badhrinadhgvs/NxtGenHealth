@@ -1,9 +1,5 @@
 <p align="center">
-<<<<<<< HEAD
-  <img src="Logo.jpg" width="70%" alt="NXTGENHEALTH-logo" height="15%">
-=======
   <img src="Logo-removebg-preview.png" width="40%" alt="NXTGENHEALTH-logo" height="40%">
->>>>>>> 690a47f (new commit)
 </p>
 <p align="center">
     <h1 align="center">NXTGENHEALTH</h1>
