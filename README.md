@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.jpg" width="70%" alt="NXTGENHEALTH-logo" height="auto">
+  <img src="Logo.jpg" width="70%" alt="NXTGENHEALTH-logo" height="40px">
 </p>
 <p align="center">
     <h1 align="center">NXTGENHEALTH</h1>
