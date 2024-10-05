@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>NxtGen Health</title>
+</head>
+<body>
+    <h1>Welcome to NxtGen Health</h1>
+    {% if predict %}
+        <form action="{{ url_for('download_pdf') }}" method="get">
+            <button type="submit">Download PDF</button>
+        </form>
+    {% endif %}
+</body>
+</html>
