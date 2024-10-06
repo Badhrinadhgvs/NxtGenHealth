@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="Logo-removebg-preview.png" width="40%" alt="NXTGENHEALTH-logo" height="40%">
+  <img src="static/img.jpg" width="40%" alt="NXTGENHEALTH-logo" height="40%">
 </p>
 <p align="center">
     <h1 align="center">NXTGENHEALTH</h1>
 </p>
 <p align="center">
-    <em><code>❯ REPLACE-ME</code></em>
+    <em>Vyāyāmāt Labhate Svāsthyaṁ Dīrghāyuṣyaṁ Balaṁ Sukhaṁ.
+
+Ārogyaṁ Paramaṁ Bhāgyāṁ Svāsthyaṁ Sarvārthasādhanaṁ</em>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/Badhrinadhgvs/NxtGenHealth?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -22,23 +24,6 @@
 
 <br>
 
-#####  Table of Contents
-
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ Modules](#-modules)
-- [ Getting Started](#-getting-started)
-    - [ Prerequisites](#-prerequisites)
-    - [ Installation](#-installation)
-    - [ Usage](#-usage)
-    - [ Tests](#-tests)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
-
----
 
 ##  Overview
 
