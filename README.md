@@ -6,8 +6,7 @@
 </p>
 <p align="center">
     <em>Vyāyāmāt Labhate Svāsthyaṁ Dīrghāyuṣyaṁ Balaṁ Sukhaṁ.
-
-Ārogyaṁ Paramaṁ Bhāgyāṁ Svāsthyaṁ Sarvārthasādhanaṁ</em>
+        Ārogyaṁ Paramaṁ Bhāgyāṁ Svāsthyaṁ Sarvārthasādhanaṁ</em>
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/license/Badhrinadhgvs/NxtGenHealth?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
