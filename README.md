@@ -1,42 +1,70 @@
 <p align="center">
-  <img src="static/img.jpg" width="40%" alt="NXTGENHEALTH-logo" height="40%">
+  <img src="static/img.jpg" width="60%" alt="NXTGENHEALTH-logo">
 </p>
 <p align="center">
-    <h1 align="center">NXTGENHEALTH</h1>
+    <h1 align="center">NXTGENHEALTH - Multi-Parameter Health Risk Prediction System</h1>
 </p>
 <p align="center">
-    <em>Vyāyāmāt Labhate Svāsthyaṁ Dīrghāyuṣyaṁ Balaṁ Sukhaṁ.
-        Ārogyaṁ Paramaṁ Bhāgyāṁ Svāsthyaṁ Sarvārthasādhanaṁ</em>
+    <em><code>-By Team NxtGenHealth</code></em>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/license/Badhrinadhgvs/NxtGenHealth?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-  <img src="https://img.shields.io/github/last-commit/Badhrinadhgvs/NxtGenHealth?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-  <img src="https://img.shields.io/github/languages/top/Badhrinadhgvs/NxtGenHealth?style=flat&color=0080ff" alt="repo-top-language">
-  <img src="https://img.shields.io/github/languages/count/Badhrinadhgvs/NxtGenHealth?style=flat&color=0080ff" alt="repo-language-count">
+	<img src="https://img.shields.io/github/license/Badhrinadhgvs/NxtGenHealth?style=flat&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/Badhrinadhgvs/NxtGenHealth?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/Badhrinadhgvs/NxtGenHealth?style=flat&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/Badhrinadhgvs/NxtGenHealth?style=flat&color=0080ff" alt="repo-language-count">
 </p>
 <p align="center">
-    <em>Built with the tools and technologies:</em>
+		<em>Built with the tools and technologies:</em>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
+	<img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikitlearn">
+	<img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter">
+	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
+	<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python">
+	<img src="https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="pandas">
+	<img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=Django&logoColor=white" alt="Django">
+	<img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=NumPy&logoColor=white" alt="NumPy">
+	<img src="https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white" alt="Flask">
 </p>
 
 <br>
 
+##### 🔗 Table of Contents
 
-##  Overview
-
-<code>❯ REPLACE-ME</code>
+- [📍 Overview](#-overview)
+- [👾 Features](#-features)
+- [🎯 Objective](#-objective)
+- [📂 Repository Structure](#-repository-structure)
+- [🚀 Getting Started](#-getting-started)
+    - [🔖 Prerequisites](#-prerequisites)
+    - [📦 Installation](#-installation)
+    - [🤖 Usage](#-usage)
+- [🤝 Contributing](#-contributing)
+- [🙌 Acknowledgments](#-acknowledgments)
 
 ---
 
-##  Features
+## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>Nowadays Many of the companies checks persons health risks based on one parameter but here we will take various paramenter like Bp,Height,Weight etc and then we will Use Machine Learning Algorithm to Predict the persons health as No risk , Low risk and High risk and based on the type of risk we will provide recommendations like Health tips,Specialist recommendations etc and at last we will provide a report in the form of pdf which is downloadable.</code>
+
+---
+## 🎯 Objective
+<code>Develop a comprehensive health risk prediction system that evaluates an individual’s health based on multiple parameters such as blood pressure (BP), height, weight, and other relevant metrics. The system will use machine learning algorithms to classify health risks into three categories: No Risk, Low Risk, and High Risk. Based on the risk category, personalized recommendations will be provided, including health tips and specialist consultations. Finally, a detailed report will be generated in PDF format for download.</code>
+
+
+## 👾 Features
+
+<code>> Predictive Health Alerts</code>
+<code>> Human Computer Interraction(HCI)</code>
+<code>> Genetic Engineering and Biotechnology</code>
+<code>> Recommendations and Report generation</code>
+
+
 
 ---
 
-##  Repository Structure
+## 📂 Repository Structure
 
 ```sh
 └── NxtGenHealth/
@@ -44,33 +72,37 @@
     ├── NxtGenHealth
     ├── NxtGenHealth.csv
     ├── Preprocessing.ipynb
+    ├── README.md
+    ├── Result.pdf
+    ├── app.py
+    ├── db.sqlite3
     ├── ex1.csv
-    └── new.xlsx
+    ├── report.py
+    ├── requirements.txt
+    ├── static
+    │   ├── Low Risk.css
+    │   ├── No risk.css
+    │   ├── NxtGenHealth.css
+    │   ├── high risk.css
+    │   └── img.jpg
+    └── templates
+        ├── Low Risk.html
+        ├── No risk.html
+        ├── NxtGenHealth.html
+        ├── download.html
+        └── high risk.html
 ```
 
----
 
-##  Modules
 
-<details closed><summary>.</summary>
+## 🚀 Getting Started
 
-| File | Summary |
-| --- | --- |
-| [Preprocessing.ipynb](https://github.com/Badhrinadhgvs/NxtGenHealth/blob/main/Preprocessing.ipynb) | <code>❯ REPLACE-ME</code> |
-| [Model.ipynb](https://github.com/Badhrinadhgvs/NxtGenHealth/blob/main/Model.ipynb) | <code>❯ REPLACE-ME</code> |
-| [NxtGenHealth](https://github.com/Badhrinadhgvs/NxtGenHealth/blob/main/NxtGenHealth) | <code>❯ REPLACE-ME</code> |
+### 🔖 Prerequisites
 
-</details>
+**Web Technologies**
+**Python - 3.12(New Version)**
 
----
-
-##  Getting Started
-
-###  Prerequisites
-
-**JupyterNotebook**: `version x.y.z`
-
-###  Installation
+### 📦 Installation
 
 Build the project from source:
 
@@ -84,38 +116,32 @@ Build the project from source:
 ❯ cd NxtGenHealth
 ```
 
+**NOTE:** You can create any type of environment if you want .
+
 3. Install the required dependencies:
 ```sh
-❯ pip install -r requirements.txt
+❯ ❯ pip install -r requirements.txt
 ```
 
-###  Usage
+### 🤖 Usage
 
 To run the project, execute the following command:
 
 ```sh
-❯ jupyter nbconvert --execute notebook.ipynb
+❯ ❯ python app.py
 ```
 
-###  Tests
 
-Execute the test suite using the following command:
 
-```sh
-❯ pytest notebook_test.py
-```
+## Project Contibutors Team
+- Venkata Sai Badhrinadh - Team Lead 
+- Ramyasree Mamidi
+- Sd Shaista Sultana
+- Jahnavi Challa
+- Mahendra Kannela
 
----
 
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
-##  Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
 
@@ -158,16 +184,9 @@ Contributions are welcome! Here are several ways you can contribute:
 </p>
 </details>
 
----
 
-##  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+## 🙌 Acknowledgments
 
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
+- We would like to express our sincere gratitude to everyone who contributed to the development of this Multi-Parameter Health Risk Prediction System especially my team mates.
 ---
