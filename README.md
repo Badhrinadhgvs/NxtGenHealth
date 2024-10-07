@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/img.jpg" width="60%" alt="NXTGENHEALTH-logo">
+  <img src="static/img.jpg" width="40%" alt="NXTGENHEALTH-logo">
 </p>
 <p align="center">
     <h1 align="center">NXTGENHEALTH - Multi-Parameter Health Risk Prediction System</h1>
