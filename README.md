@@ -136,7 +136,7 @@ To run the project, execute the following command:
 ## Project Contibutors Team
 - Venkata Sai Badhrinadh - Team Lead 
 - Ramyasree Mamidi
-- Sd Shaista Sultana
+- sd. shaistha sulthana - Research Person
 - Jahnavi Challa
 - Mahendra Kannela
 
