@@ -46,7 +46,7 @@
 
 ## 📍 Overview
 
-<code>Nowadays Many of the companies checks persons health risks based on one parameter but here we will take various paramenter like Bp,Height,Weight etc and then we will Use Machine Learning Algorithm to Predict the persons health as No risk , Low risk and High risk and based on the type of risk we will provide recommendations like Health tips,Specialist recommendations etc and at last we will provide a report in the form of pdf which is downloadable.</code>
+<code>Nowadays Many of the companies check a person's health risks based on one parameter but here we will take various parameters like Bp, Height, Weight, etc and then we will use Machine Learning Algorithm to Predict the person' health as No risk, Low risk, and High risk and based on the type of risk we will provide recommendations like Health tips, Specialist recommendations, etc and at last we will provide a report in the form of pdf which is downloadable.</code>
 
 ---
 ## 🎯 Objective
@@ -104,7 +104,7 @@
 
 ### 📦 Installation
 
-Build the project from source:
+Build the project from the source:
 
 1. Clone the NxtGenHealth repository:
 ```sh
@@ -116,7 +116,7 @@ Build the project from source:
 ❯ cd NxtGenHealth
 ```
 
-**NOTE:** You can create any type of environment if you want .
+**NOTE:** You can create any environment.
 
 3. Install the required dependencies:
 ```sh
@@ -133,12 +133,12 @@ To run the project, execute the following command:
 
 
 
-## Project Contibutors Team
-- Venkata Sai Badhrinadh - Team Lead 
-- Ramyasree Mamidi
-- sd. shaistha sulthana - Research Person
-- Jahnavi Challa
-- Mahendra Kannela
+## Project Contributors Team
+- Venkata Sai Badhrinadh (Team Lead) - Backend Dev. 
+- Ramya Sree Mamidi - Frontend Dev.
+- sd. Shaistha Sulthana - Content Research Lead
+- Jahnavi Challa - Content Researcher
+- Mahendra Kannela - Content Reviewer
 
 
 ## 🤝 Contributing
