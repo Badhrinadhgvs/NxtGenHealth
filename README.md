@@ -174,26 +174,7 @@ Contributions are welcome! Here are several ways you can contribute:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/Badhrinadhgvs/NxtGenHealth/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=Badhrinadhgvs/NxtGenHealth">
-   </a>
-</p>
-<p align="left">
-   <a href="https://github.com{/Badhrinadhgvs/NxtGenHealth/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=Ramya1106/NxtGenHealth">
-   </a>
-</p>
 
-<p align="left">
-   <a href="https://github.com{/Badhrinadhgvs/NxtGenHealth/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=syedshaista/NxtGenHealth">
-   </a>
-</p>
-</details>
 
 
 
