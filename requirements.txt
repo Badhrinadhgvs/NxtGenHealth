@@ -1,6 +1,5 @@
 numpy
 pandas
-django
 flask
 matplotlib
 seaborn
